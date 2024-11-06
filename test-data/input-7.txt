@@ -1,0 +1,4 @@
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # should have fired secondary
+TORPEDO,SINGLE  # should have fired secondary again since primars is empty
+TORPEDO,SINGLE  # both should be empty
